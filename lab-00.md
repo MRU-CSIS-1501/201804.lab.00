@@ -52,15 +52,16 @@
 </tr>
 </tbody>
 </table><h2 id="reaching-these-goals">Reaching these goals</h2>
-<pre><code>- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
-</code></pre>
+<ul>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Mercury</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Venus</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Earth (Orbit/Moon)</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Mars</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Jupiter</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Saturn</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Uranus</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Neptune</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Comet Haley</li>
+</ul>
 <!--stackedit_data:&#10;eyJoaXN0b3J5IjpbLTc4MzIwMDIyOF19&#10;-->
 
