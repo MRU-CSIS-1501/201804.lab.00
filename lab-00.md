@@ -7,6 +7,7 @@
 | --- | --- |
 | log in to INS | we're doing all assignments, our lab quizzes, and part of the final exam on INS |
 | find the simple reference to Linux commands | there a number of common commands you need to snag assignment and quiz files; the reference has them |
+| create a file with Emacs | our default editor for this course is Emacs |
 | log out of INS | if you don't log off properly, things can get...messy |
 | know how to access INS from off campus | odds are you will want to work on assignments off-campus at times |
 
@@ -25,21 +26,15 @@
 	- when you type the password, you don't get any indication that things are being typed...this is normal
 	- can't get in? Talk to Jordan or Steve.
 - [ ] find the simple reference to Linux commands
-	- it's on (?)
+	- it's available at bit.ly/mru-1501-linux-ref
 	- it's actually useful, read it
+- [ ] create a file with Emacs
+	- make a file called **foo**, put your name in it, save it, and exit: `emacs foo` will help you get started; there's a reference for basic Emacs commands here: bit.ly/mru-1501-emacs-ref
 - [ ] log out of INS
 	- type `exit` or (cooler, IMO) `Ctrl+D`
 - [ ] know how to access INS from off campus
-	- Windows? 
-		- download
-		- create folder
-		- unzip into
-		- right-click > run as
-	- Mac?
-		- open built-in Terminal app
-		- `ssh username@ins.mtroyal.ca`
-		- first time, say yes to the warning about security key
-		- you might have some extra work to do with keyboard
+	- Windows how-to here: https://github.com/MRU-CSIS-1501/putty.setup.guide
+	- Mac how-to here 
 ---
 - [ ] create a REPL.IT account
 - [ ] find drills for our course
