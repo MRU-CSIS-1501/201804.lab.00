@@ -52,10 +52,15 @@
 </tr>
 </tbody>
 </table><h2 id="reaching-these-goals">Reaching these goals</h2>
-<ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> blah</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> blah 2</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="">  blah 3</li>
-</ul>
+<pre><code>- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+</code></pre>
 <!--stackedit_data:&#10;eyJoaXN0b3J5IjpbLTc4MzIwMDIyOF19&#10;-->
 
