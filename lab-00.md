@@ -54,6 +54,8 @@
 </table><h2 id="reaching-these-goals">Reaching these goals</h2>
 <ul>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> blah</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> blah 2</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="">  blah 3</li>
 </ul>
 <!--stackedit_data:&#10;eyJoaXN0b3J5IjpbLTc4MzIwMDIyOF19&#10;-->
 
