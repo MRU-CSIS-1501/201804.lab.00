@@ -1,10 +1,10 @@
 ---
-title: Testaroonie
+
 
 ---
 
 <h1 id="lab-00">Lab-00</h1>
-<h2 id="goals">Goals</h2>
+<h2 id="goals-for-this-lab">Goals for this lab</h2>
 <h3 id="ins">INS</h3>
 
 <table>
@@ -16,7 +16,7 @@ title: Testaroonie
 </thead>
 <tbody>
 <tr>
-<td>[ ] log in to INS</td>
+<td>log in to INS</td>
 <td>we’re doing all assignments, our lab quizzes, and part of the final exam on INS</td>
 </tr>
 <tr>
@@ -51,5 +51,6 @@ title: Testaroonie
 <td>you need to get as much experience coding as possible; the drills will help you do that</td>
 </tr>
 </tbody>
-</table><!--stackedit_data:&#10;eyJoaXN0b3J5IjpbLTc4MzIwMDIyOF19&#10;-->
+</table><h2 id="section"></h2>
+<!--stackedit_data:&#10;eyJoaXN0b3J5IjpbLTc4MzIwMDIyOF19&#10;-->
 
