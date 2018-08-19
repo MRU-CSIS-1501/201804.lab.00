@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="lab-00">Lab-00</h1>
 <h2 id="goals-for-this-lab">Goals for this lab</h2>
 <h3 id="ins">INS</h3>
