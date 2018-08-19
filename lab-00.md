@@ -1,5 +1,5 @@
 ---
-
+title: Testaroonie
 
 ---
 
@@ -10,13 +10,13 @@
 <table>
 <thead>
 <tr>
-<th>goal</th>
-<th>reason</th>
+<th>GOAL</th>
+<th>REASON</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>log in to INS</td>
+<td>[ ] log in to INS</td>
 <td>we’re doing all assignments, our lab quizzes, and part of the final exam on INS</td>
 </tr>
 <tr>
@@ -33,9 +33,23 @@
 </tr>
 </tbody>
 </table><h3 id="spanrepl.itspan"><span>REPL.IT</span></h3>
-<ul>
-<li>log in to <a href="http://REPL.IT">REPL.IT</a> after creating an account</li>
-<li>find drills for our course</li>
-</ul>
-<!--stackedit_data:&#10;eyJoaXN0b3J5IjpbLTc4MzIwMDIyOF19&#10;-->
+
+<table>
+<thead>
+<tr>
+<th>GOAL</th>
+<th>REASON</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>log in to <a href="http://REPL.IT">REPL.IT</a> after creating an account</td>
+<td>skill drills for the course are available on <span>REPL.IT</span></td>
+</tr>
+<tr>
+<td>find drills for our course</td>
+<td>you need to get as much experience coding as possible; the drills will help you do that</td>
+</tr>
+</tbody>
+</table><!--stackedit_data:&#10;eyJoaXN0b3J5IjpbLTc4MzIwMDIyOF19&#10;-->
 
