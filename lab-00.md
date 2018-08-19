@@ -1,5 +1,6 @@
 ---
-
+extensions:
+  preset: gfm
 
 ---
 
@@ -17,7 +18,7 @@
 <tbody>
 <tr>
 <td>log in to INS</td>
-<td>we’re doing all assignments, our lab quizzes, and part of the final exam on INS</td>
+<td>we're doing all assignments, our lab quizzes, and part of the final exam on INS</td>
 </tr>
 <tr>
 <td>find the simple reference to Linux commands</td>
@@ -25,7 +26,7 @@
 </tr>
 <tr>
 <td>log out of INS</td>
-<td>if you don’t log off properly, things can get…messy</td>
+<td>if you don't log off properly, things can get...messy</td>
 </tr>
 <tr>
 <td>know how to access INS from off campus</td>
