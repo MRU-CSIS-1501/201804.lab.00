@@ -19,15 +19,30 @@
 
 ## Reaching these goals
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] log in to INS
+	- Windows Start > INS
+	- `login as:` use your mymru username
+	- when you type the password, you don't get any indication that things are being typed...this is normal
+	- can't get in? Talk to Jordan or Steve.
+- [ ] find the simple reference to Linux commands
+	- it's on (?)
+	- it's actually useful, read it
+- [ ] log out of INS
+	- type `exit` or (cooler, IMO) `Ctrl+D`
+- [ ] know how to access INS from off campus
+	- Windows? 
+		- download
+		- create folder
+		- unzip into
+		- right-click > run as
+	- Mac?
+		- open built-in Terminal app
+		- `ssh username@ins.mtroyal.ca`
+		- first time, say yes to the warning about security key
+		- you might have some extra work to do with keyboard
+---
+- [ ] create a REPL.IT account
+- [ ] find drills for our course
 
 
 <!--stackedit_data:
