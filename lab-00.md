@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h1 id="lab-00">Lab-00</h1>
 <h2 id="goals-for-this-lab">Goals for this lab</h2>
 <h3 id="ins">INS</h3>
@@ -38,14 +43,17 @@
 </thead>
 <tbody>
 <tr>
-<td>log in to <a href="http://REPL.IT">REPL.IT</a> after creating an account</td>
-<td>skill drills for the course are available on <span>REPL.IT</span></td>
+<td>create a <a href="http://REPL.IT">REPL.IT</a> account</td>
+<td>skill drills for the course are available on this site</td>
 </tr>
 <tr>
 <td>find drills for our course</td>
 <td>you need to get as much experience coding as possible; the drills will help you do that</td>
 </tr>
 </tbody>
-</table><h2 id="section"></h2>
+</table><h2 id="reaching-these-goals">Reaching these goals</h2>
+<ul>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> blah</li>
+</ul>
 <!--stackedit_data:&#10;eyJoaXN0b3J5IjpbLTc4MzIwMDIyOF19&#10;-->
 
