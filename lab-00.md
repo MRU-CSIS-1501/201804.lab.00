@@ -26,10 +26,10 @@
 	- when you type the password, you don't get any indication that things are being typed...this is normal
 	- can't get in? Talk to Jordan or Steve.
 - [ ] find the simple reference to Linux commands
-	- it's available at bit.ly/mru-1501-linux-ref
+	- it's available at https://bit.ly/mru-1501-linux-ref
 	- it's actually useful, read it
 - [ ] create a file with Emacs
-	- make a file called **foo**, put your name in it, save it, and exit: `emacs foo` will help you get started; there's a reference for basic Emacs commands here: bit.ly/mru-1501-emacs-ref
+	- make a file called **foo**, put your name in it, save it, and exit: `emacs foo` will help you get started; there's a reference for basic Emacs commands here: https://bit.ly/mru-1501-emacs-ref
 - [ ] log out of INS
 	- type `exit` or (cooler, IMO) `Ctrl+D`
 - [ ] know how to access INS from off campus
