@@ -6,9 +6,9 @@
 | GOAL| REASON|
 | --- | --- |
 | log in to INS | we're doing all assignments, our lab quizzes, and part of the final exam on INS |
-| find the simple reference to Linux commands | there a number of common commands you need to snag assignment and quiz files; the reference has them |
+| find the simple reference to Linux commands | there a number of common commands you need to snag assignment and quiz files; the reference talks about them |
 | create a file with Emacs | our default editor for this course is Emacs |
-| submit a directory on INS | all your assignments will be submitted on INS |
+| submit a directory on INS | all your assignments will be submitted on INS, this will give you a taste |
 | log out of INS | if you don't log off properly, things can get...messy |
 | know how to access INS from off campus | odds are you will want to work on assignments off-campus at times |
 
