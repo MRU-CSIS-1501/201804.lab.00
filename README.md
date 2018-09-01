@@ -15,10 +15,12 @@
 
 ### <span>REPL.IT</span>
 
-| GOAL                     | REASON                                                                                 |
-| ------------------------ | -------------------------------------------------------------------------------------- |
-| create a REPL.IT account | skill drills for the course are available on this site                                 |
-| complete a simple drill  | you will be doing a lot of drills; the sooner you understand how they work, the better |
+| GOAL                                         | REASON                                                                                 |
+| -------------------------------------------- | -------------------------------------------------------------------------------------- |
+| create a REPL.IT account                     | skill drills for the course are available on this site                                 |
+| enroll in our REPLIT classroom               | you need to enroll to access our class' drills                                         |
+| send your instructor your REPLIT username    | if you don't, you won't get your drill marks!                                          |
+| complete the introductory `u-wuz-here` drill | you will be doing a lot of drills; the sooner you understand how they work, the better |
 
 ## Reaching these goals
 
@@ -33,9 +35,9 @@
   - make a file called **foo**, put your name in it, save it, and exit: `emacs foo` will help you get started; there's a reference for basic Emacs commands here: https://bit.ly/mru-1501-emacs-ref
 - [ ] submit a directory on INS
   - create a directory in your home directory called `my-first-submission`
-  - move the foo file you made (well, should have made) into that directory - enter `submit` and then enter reasonable values at the prompts
-  - the number of the assignment should be 0
-  - when you are asked for the file you want to submit, enter the name of the **directory** you made earlier
+  - move the `foo` file you made (well, should have made) into that directory - enter `submit` and then enter reasonable values at the prompts
+    - the number of the assignment should be 0
+    - when you are asked for the file you want to submit, enter the name of the **directory** you made earlier
 - [ ] log out of INS - type `exit` or (cooler, IMO) `Ctrl+D`
 - [ ] know how to access INS from off campus
   - Windows how-to here: https://github.com/MRU-CSIS-1501/putty.setup.guide
@@ -44,20 +46,15 @@
 ---
 
 - [ ] create a REPL.IT account
-  - here is our classroom link: https://repl.it/classroom/invite/VRAwbnk - if you don't have a REPLIT account yet, you'll be able to make one
-  - after signing up, send me your REPLIT username - if you don't, it's going to be awfully hard for me to give you marks
-- [ ] find drills for our course
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzIwMDIyOF19
--->
-<!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTg2ODI4NjgzNiw2MjIzMTQ3
-OTgsMTkxNTUxMzAyNCwxOTg1MTA4MTQ5LDEyMjYyMzU4OCwyMD
-YyMzg0MjQ0LC0yNzczMDMyMDMsLTkyMzk5ODc4OSwtMjYzODA0
-MzI3LC0xODc0MjY1NjM0LDM3MzUwNDE3LC0xMjg4NTMzMjk3LD
-gxMjEzNTg2MiwtNjIzODEyNDAsLTEwNzczOTE5MDEsNDQ0NTQ3
-NjcsLTEwNzczOTE5MDEsNDQ0NTQ3NjcsLTQwNTQyMzMyNCwtNj
-E3NjU2NTE5XX0=
--->
+  - create an account through repl.it ... make sure you verify your email and update your profile (just add your initials and please also add the school).
+  - If you want, here's a [quick video overview](https://drive.google.com/a/mtroyal.ca/file/d/1K-dHMREkC4_z_U5b7k4HUBLe0q8m3p5z/view?usp=sharing).
+- [ ] enroll in our REPLIT classroom
+  - log in (if you're not in already) to your REPL.IT account
+  - paste this enrollment link into the browser: https://repl.it/classroom/invite/VRAwbnk - you should now be able to see `COMP1501 Skill Drills` under your classrooms.
+    - If you want, here's a [quick video overview](https://drive.google.com/a/mtroyal.ca/file/d/1PqeRqn1-mPn2MYpNsPgWWP-SP_vnRxqf/view?usp=sharing)
+- [ ] send your instructor your REPLIT username
+  - send an email to your instructor with both your full name AND your REPL.IT account name
+- [ ] complete the introductory `u-wuz-here` drill
+  - double-click on our classroom to open it
+  - select the `u-wuz-here` drill
+  - follow the instructions and click `Submit`... some tests will run and if you pass them, you'll be able to submit the drill. (If something doesn't work, call someone over.)
