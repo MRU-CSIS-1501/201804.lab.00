@@ -24,6 +24,8 @@
 
 ## Reaching these goals
 
+### INS Goals
+
 - [ ] log in to INS
   - Windows Start > INS
   - `login as:` use your mymru username
@@ -44,6 +46,8 @@
   - Mac how-to here: https://github.com/MRU-CSIS-1501/mac.terminal.setup.guide
 
 ---
+
+### REPL.IT Goals
 
 - [ ] create a REPL.IT account
   - create an account through repl.it ... make sure you verify your email and update your profile (just add your initials and please also add the school).
